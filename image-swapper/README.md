@@ -1,4 +1,4 @@
-# Image Converter
+# Image Swapper
 
 A batch image converter that resizes, crops, compresses, and re-encodes
 images to JPG, PNG, or WEBP — entirely in the browser. Nothing is uploaded
